@@ -21,6 +21,8 @@ Esta pasta contém os **10 exercícios resolvidos e  5 propostos** referentes ao
 05. Crie um programa que receba os valores antigo e atual de um produto. Chame uma sub-rotina que determine o percentual de acréscimo entre esses valores. O resultado deverá ser mostrado no programa principal.
 ---
 06. Faça uma sub-rotina que receba como parâmetro um inteiro no intervalo de 1 a 9 e mostre a seguinte tabela de multiplicação (no exemplo, n = 9).
+
+   
 |     |     |     |     |     |     |     |     | 1   |
 |     |     |     |     |     |     |     | 2   | 4   |
 |     |     |     |     |     |     | 3   | 6   | 9   |
