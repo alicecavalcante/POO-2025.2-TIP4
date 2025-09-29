@@ -29,7 +29,8 @@ expressa em minutos, considerando que o tempo máximo de duração de um jogo é
 ---
 09. Faça uma sub-rotina que leia cinco valores inteiros, determine e mostre o maior e o menor deles.
 ---
-10. Crie uma sub-rotina que receba como parâmetro um valor inteiro e positivo N e retorne o valor de S, obtido pelo seguinte cálculo.
+10. Crie uma sub-rotina que receba como parâmetro um valor inteiro e positivo N e retorne o valor de S, obtido pelo seguinte cálculo. <br>
+    
 | S = 1 + 1/1! + 1/2! + 1/3! + ... + 1/N! |
 
 
