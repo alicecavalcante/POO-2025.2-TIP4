@@ -128,31 +128,42 @@ c) A partir de 2007 (inclusive), os aumentos salariais sempre corresponderam ao 
 anterior.
 Faça um programa que determine o salário atual desse funcionário.
 ---
-2. Faça um programa que leia um valor N inteiro e positivo. Calcule e mostre o valor de E, conforme a
-fórmula a seguir:
+2. Faça um programa que leia um valor N inteiro e positivo. Calcule e mostre o valor de E, conforme a fórmula a seguir:
 | E = 1 + 1/1! + 1/2! + 1/3! + ... + 1/N!|
 ---
-3. Faça um programa que leia um número N que indica quantos valores inteiros e positivos devem ser
-lidos a seguir. Para cada número lido, mostre uma tabela contendo o valor lido e o fatorial desse valor.
+3. Faça um programa que leia um número N que indica quantos valores inteiros e positivos devem ser lidos a seguir. Para cada número lido, mostre uma tabela contendo o valor lido e o fatorial desse valor.
 ---
-4. Foi feita uma estatística em cinco cidades brasileiras para coletar dados sobre acidentes de trânsito.
-Foram obtidos os seguintes dados:
-a) código da cidade;
-b) número de veículos de passeio;
-c) número de acidentes de trânsito com vítimas.
-Deseja-se saber:
-a) qual é o maior e qual é o menor índice de acidentes de trânsito e a que cidades pertencem;
-b) qual é a média de veículos nas cinco cidades juntas;
-c) qual é a média de acidentes de trânsito nas cidades com menos de 2.000 veículos de passeio.
+4. Foi feita uma estatística em cinco cidades brasileiras para coletar dados sobre acidentes de trânsito. Foram obtidos os seguintes dados: <br>
+a) código da cidade; <br>
+b) número de veículos de passeio; <br>
+c) número de acidentes de trânsito com vítimas. <br>
+Deseja-se saber:<br>
+a) qual é o maior e qual é o menor índice de acidentes de trânsito e a que cidades pertencem; <br>
+b) qual é a média de veículos nas cinco cidades juntas; <br>
+c) qual é a média de acidentes de trânsito nas cidades com menos de 2.000 veículos de passeio. <br>
 ---
-5. Faça um programa que leia o número de termos e um valor positivo para X. Calcule e mostre o valor
-da série a seguir: <br>
+5. Faça um programa que leia o número de termos e um valor positivo para X. Calcule e mostre o valor da série a seguir: <br>
 \[
-S = -X²/1! + X³/2! - X⁴/3! + X⁵/4! - X⁶/3! + X⁷/2! - X⁸/1! + X⁹/2! - X¹⁰/3! + X¹¹/4! - ...
+S = -X²/1! + X³/2! - X⁴/3! + X⁵/4! - X⁶/3! + X⁷/2! - X⁸/1! + X⁹/2! - X¹⁰/3! + X¹¹/4! - ... \]
 
 
 ---
-6.
+6. Uma empresa possui dez funcionários com as seguintes características: código, número de horas traba-lhadas no mês, turno de trabalho (M — matutino; V — vespertino; ou N — noturno), categoria (O — operário; ou G — gerente), valor da hora trabalhada. Sabendo-se que essa empresa deseja informatizar sua folha de pagamento, faça um programa que:<br>
+
+a) Leia as informações dos funcionários, exceto o valor da hora trabalhada, não permitindo que sejam informados turnos e nem categorias inexistentes. Trabalhe sempre com a digitação de letras maiúsculas. <br>
+b) Calcule o valor da hora trabalhada, conforme a tabela a seguir. Adote o valor de R$ 450,00 para o salário mínimo.<br>
+
+| Categoria | Turno  | Valor da hora              |
+|-----------|--------|----------------------------|
+| G         | N      | 18% do salário mínimo       |
+| G         | M ou V | 15% do salário mínimo       |
+| O         | N      | 13% do salário mínimo       |
+| O         | M ou V | 10% do salário mínimo       |
+
+c) Calcule o salário inicial dos funcionários com base no valor da hora trabalhada e no número de horas trabalhadas. <br>
+
+d) Calcule o valor do auxílio alimentação recebido pelo funcionário de acordo com seu salário inicial, conforme a tabela a seguir. <br>
+
 ---
 7.
 ---
