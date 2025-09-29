@@ -174,8 +174,8 @@ Série = 2, 7, 3, 4, 21, 12, 8, 63, 48, 16, 189, 192, 32, 567, 768...
 ---
 9. Faça um programa que receba duas notas de seis alunos. Calcule e mostre:
 - a média aritmética das duas notas de cada aluno; e
-- a mensagem que está na tabela a seguir:
-  | Item                        | Quantidade  |
+- a mensagem que está na tabela a seguir: <br>
+| Item                        | Quantidade  |
 |----------------------------|-------------|
 | Total de alunos aprovados   | (valor)     |
 | Total de alunos de exame    | (valor)     |
