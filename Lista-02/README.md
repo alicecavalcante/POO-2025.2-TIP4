@@ -146,7 +146,7 @@ b) qual é a média de veículos nas cinco cidades juntas;
 c) qual é a média de acidentes de trânsito nas cidades com menos de 2.000 veículos de passeio.
 ---
 5. Faça um programa que leia o número de termos e um valor positivo para X. Calcule e mostre o valor
-da série a seguir:
+da série a seguir: <br>
 \[
 S = -X²/1! + X³/2! - X⁴/3! + X⁵/4! - X⁶/3! + X⁷/2! - X⁸/1! + X⁹/2! - X¹⁰/3! + X¹¹/4! - ...
 
