@@ -165,7 +165,9 @@ c) Calcule o salário inicial dos funcionários com base no valor da hora trabal
 d) Calcule o valor do auxílio alimentação recebido pelo funcionário de acordo com seu salário inicial, conforme a tabela a seguir. <br>
 
 ---
-7.
+7. Faça um programa que monte os oito primeiros termos da sequência de Fibonacci.
+
+<ps> 0-1-1-2-3-5-8-13-21-34-55... <ps>
 ---
 8.
 ---
