@@ -20,22 +20,19 @@ Esta pasta contém os **10 exercícios resolvidos e  5 propostos** referentes ao
 ---
 5. Crie um programa que receba os valores antigo e atual de um produto. Chame uma sub-rotina que determine o percentual de acréscimo entre esses valores. O resultado deverá ser mostrado no programa principal.
 ---
-6. Faça uma sub-rotina que receba como parâmetro um inteiro no intervalo de 1 a 9 e mostre a seguinte
-tabela de multiplicação (no exemplo, n = 9).
+6. Faça uma sub-rotina que receba como parâmetro um inteiro no intervalo de 1 a 9 e mostre a seguinte tabela de multiplicação (no exemplo, n = 9).
 ---
-07. Elabore um programa contendo uma sub-rotina que receba as três notas de um aluno como parâme-
-tros e uma letra. Se a letra for A, a sub-rotina deverá calcular a média aritmética das notas do aluno; se for P, deverá calcular a média ponderada, com pesos 5, 3 e 2. A média calculada deverá ser devolvida
-ao programa principal para, então, ser mostrada.
+07. Elabore um programa contendo uma sub-rotina que receba as três notas de um aluno como parâmetros e uma letra. Se a letra for A, a sub-rotina deverá calcular a média aritmética das notas do aluno; se for P, deverá calcular a média ponderada, com pesos 5, 3 e 2. A média calculada deverá ser devolvida ao programa principal para, então, ser mostrada.
 ---
-08. Crie uma sub-rotina que receba como parâmetro a hora de início e a hora de término de um jogo,
-ambas subdivididas em dois valores distintos: horas e minutos. A sub-rotina deverá retornar a duração
-expressa em minutos, considerando que o tempo máximo de duração de um jogo é de 24 horas e que
-ele pode começar em um dia e terminar no outro.
+08. Crie uma sub-rotina que receba como parâmetro a hora de início e a hora de término de um jogo, ambas subdivididas em dois valores distintos: horas e minutos. A sub-rotina deverá retornar a duração
+expressa em minutos, considerando que o tempo máximo de duração de um jogo é de 24 horas e que ele pode começar em um dia e terminar no outro.
 ---
-10. Faça uma sub-rotina que leia cinco valores inteiros, determine e mostre o maior e o menor deles.
+09. Faça uma sub-rotina que leia cinco valores inteiros, determine e mostre o maior e o menor deles.
 ---
 10. Crie uma sub-rotina que receba como parâmetro um valor inteiro e positivo N e retorne o valor de S,
-obtido pelo seguinte cálculo
+obtido pelo seguinte cálculo.
+
+
 
 ## Exercícios Propostos - Questões
 
