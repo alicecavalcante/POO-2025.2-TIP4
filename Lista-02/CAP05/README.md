@@ -1,4 +1,4 @@
-cap 05:
+
 
 ##  Exercícios Resolvidos - Questões - Estrutura de Repetição
 
